@@ -77,11 +77,11 @@ border_width = 0
 border_sides = TBLR
 border_content_tint_weight = 0
 background_content_tint_weight = 0
-background_color = #595959 10
+background_color = #595959 50
 border_color = #000000 0
 background_color_hover = #808384 25
 border_color_hover = #000000 0
-background_color_pressed = #808384 25
+background_color_pressed = #808384 40
 border_color_pressed = #000000 0
 
 # Background 6: Active taskbar
@@ -90,7 +90,7 @@ border_width = 0
 border_sides = TBLR
 border_content_tint_weight = 0
 background_content_tint_weight = 0
-background_color = #595959 40
+background_color = #595959 80
 border_color = #5d8185 0
 background_color_hover = #000000 0
 border_color_hover = #5d8185 0
